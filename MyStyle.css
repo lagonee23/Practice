@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+}
+h1 {
+    font-size: 4em;
+    font-family: American Typewriter, serif;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    top: 10px;
+    margin-top: 0;
+    padding-top: 45px;
+}
+h2 {
+    color: lightgray;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+}
+#FirstUL {
+    list-style: none;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+}
+#FirstUL li {
+    font-size: 1.6em;
+    cursor: pointer;
+}
+#headline {
+    background-color: CornflowerBlue;
+}
+#FirstUL #SecondUL {
+    background-color: #fff;
+    border: 1px solid black;
+    border-top: none;
+    font-size: 0.8rem;
+    list-style: none;
+    position: absolute;
+    top: 262px;
+    padding: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    display: none;
+}
+#SecondUL a {
+    text-decoration-line: none;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+nav #FirstUL:first-child a {
+    text-decoration-line: none;
+    color: black;
+}
+article {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+}
+#rig_art {
+    border-left: 1px solid black;
+    padding-left: 20px;
+}
+#lef_li ul {
+    list-style: none;
+}
+#lef_li #vip_div {
+    text-align: center;
+    margin-top: 10px;
+    background-color: Aquamarine;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

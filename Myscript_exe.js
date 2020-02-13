@@ -1,0 +1,18 @@
+$('#uni_0').mouseenter(function(){
+    $('#uni_0').css('backgroundColor','#EEEEEE')
+});
+$('#uni_0').mouseleave(function(){
+    $('#uni_0').css('backgroundColor','#fff')
+});
+$('#uni_1').mouseenter(function(){
+    $('#uni_1').css('backgroundColor','#EEEEEE')
+});
+$('#uni_1').mouseleave(function(){
+    $('#uni_1').css('backgroundColor','#fff')
+});
+$('#uni_2').mouseenter(function(){
+    $('#uni_2').css('backgroundColor','#EEEEEE')
+});
+$('#uni_2').mouseleave(function(){
+    $('#uni_2').css('backgroundColor','#fff')
+});

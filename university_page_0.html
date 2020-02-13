@@ -15,7 +15,7 @@
         </header>
         <nav>
             <ul id="FirstUL">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html">Home</a></li></li>
                 <li id="bigli" style="padding-bottom: 15px;">
                     <script>
                         Everything.enterLeave('#bigli','#SecondUL');
@@ -47,12 +47,34 @@
         </nav>
     </div>
     <article>
-        <p>KOrean S시전형의 MO든 것s!</p>
-        <p>KOSMOs</p>
-        <p>
-            2021년도 대한민국의 대학별 수시전형!
-            수도권 대학부터 지방대까지 수시의 모든 정보는 바로 이곳에!!!
-        </p>
+        <div id="lef_li">
+            <div id="vip_div">
+                <strong>학생부종합전형</strong>
+            </div>
+            <ul style="padding-left: 10px;">
+                <li onclick="
+                    fetch('localbalace').then(function(response){
+                        response.text().then(function(text){
+                            document.querySelector('#art_fir').innerHTML=text
+                        })
+                })
+                ">지역균형선발전형</li>
+                <li>수시모집 일반전형</li>
+                <li>기회균형선발특별전형Ⅰ</li>
+            </ul>
+        </div>
+        <div id="rig_art">
+            <h3>서울대학교</h3>
+            <p>
+                서울대학교의 수시는 학생부종합전형으로 모집된다.<br>
+                학생부종합전형에는 크게 3가지 전형으로 나뉘는데,<br>
+                지역균형선발전형<br>
+                수시모집 일반전형<br>
+                기회균형선발특별전형Ⅰ<br>
+                이 있다.
+            </p>
+            <div id="art_fir"></div>
+        </div>
     </article>
     <script src="Myscript_exe.js"></script>
 </body>
