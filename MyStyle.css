@@ -57,7 +57,7 @@ nav #FirstUL:first-child a {
     text-decoration-line: none;
     color: black;
 }
-article {
+article #art_1 {
     display: grid;
     grid-template-columns: 200px 1fr;
 }

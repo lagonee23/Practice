@@ -47,33 +47,35 @@
         </nav>
     </div>
     <article>
-        <div id="lef_li">
-            <div id="vip_div">
-                <strong>학생부종합전형</strong>
-            </div>
-            <ul style="padding-left: 10px;">
-                <li onclick="
-                    fetch('localbalace').then(function(response){
-                        response.text().then(function(text){
-                            document.querySelector('#art_fir').innerHTML=text
+        <div id="art_1">
+            <div id="lef_li">
+                <div id="vip_div">
+                    <strong>학생부종합전형</strong>
+                </div>
+                <ul style="padding-left: 10px;">
+                    <li onclick="
+                        fetch('localbalance').then(function(response){
+                            response.text().then(function(text){
+                                document.querySelector('#art_fir').innerHTML=text;
+                            })
                         })
-                })
-                ">지역균형선발전형</li>
-                <li>수시모집 일반전형</li>
-                <li>기회균형선발특별전형Ⅰ</li>
-            </ul>
-        </div>
-        <div id="rig_art">
-            <h3>서울대학교</h3>
-            <p>
-                서울대학교의 수시는 학생부종합전형으로 모집된다.<br>
-                학생부종합전형에는 크게 3가지 전형으로 나뉘는데,<br>
-                지역균형선발전형<br>
-                수시모집 일반전형<br>
-                기회균형선발특별전형Ⅰ<br>
-                이 있다.
-            </p>
-            <div id="art_fir"></div>
+                    ">지역균형선발전형</li>
+                    <li>수시모집 일반전형</li>
+                    <li>기회균형선발특별전형Ⅰ</li>
+                </ul>
+            </div>
+            <div id="rig_art">
+                <h3>서울대학교</h3>
+                <p>
+                    서울대학교의 수시는 학생부종합전형으로 모집된다.<br>
+                    학생부종합전형에는 크게 3가지 전형으로 나뉘는데,<br>
+                    지역균형선발전형<br>
+                    수시모집 일반전형<br>
+                    기회균형선발특별전형Ⅰ<br>
+                    이 있다.
+                </p>
+                <div id="art_fir"></div>
+            </div>
         </div>
     </article>
     <script src="Myscript_exe.js"></script>
