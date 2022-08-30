@@ -1,4 +1,5 @@
 ## 풀지 못했던 문제들...
+https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
 <details>
   <summary>Question 11 (수치형 변수를 가진 컬럼을 출력하라)</summary>
   <pre>
