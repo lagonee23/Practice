@@ -15,3 +15,9 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
   </pre>
 </details>
 
+<details>
+  <summary>Question 18 (읍면동명 컬럼의 유일값 갯수를 출력하라)</summary>
+  <pre>
+    DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html" target="_blank">nunique()</a>
+  </pre>
+</details>
