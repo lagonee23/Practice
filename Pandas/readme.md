@@ -32,6 +32,6 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
 <details>
   <summary>Question 40 (df의 데이터 중 choice_description 값에 Vegetables 들어가지 않는 경우의 갯수를 출력하라)</summary>
   <pre>
-    Python<a href="http://daplus.net/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%EB%AC%BC%EA%B2%B0%ED%91%9C-%EC%97%B0%EC%82%B0%EC%9E%90/">물결표(~) 연산자</a>
+    Python <a href="http://daplus.net/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%EB%AC%BC%EA%B2%B0%ED%91%9C-%EC%97%B0%EC%82%B0%EC%9E%90/">물결표(~) 연산자</a>
   </pre>
 </details>
