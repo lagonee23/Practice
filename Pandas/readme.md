@@ -51,3 +51,13 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     <a href="https://www.delftstack.com/ko/howto/python-pandas/pandas-display-dataframe-in-a-table-style/">display()</a>
   </pre>
 </details>
+
+<details>
+  <summary>
+    Question 45 (데이터의 각 host_name의 빈도수를 구하고 host_name으로 정렬하여 상위 5개를 출력하라
+  </summary>
+  <pre>
+    DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_index.html">sort_index()</a>
+    DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html#pandas-dataframe-size">size()</a>
+  </pre>
+</details>
