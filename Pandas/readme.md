@@ -54,7 +54,7 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
 
 <details>
   <summary>
-    Question 45 (데이터의 각 host_name의 빈도수를 구하고 host_name으로 정렬하여 상위 5개를 출력하라
+    Question 45 (데이터의 각 host_name의 빈도수를 구하고 host_name으로 정렬하여 상위 5개를 출력하라)
   </summary>
   <pre>
     DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_index.html">sort_index()</a>
