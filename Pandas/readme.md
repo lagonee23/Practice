@@ -21,3 +21,10 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nunique.html" target="_blank">nunique()</a>
   </pre>
 </details>
+
+<details>
+  <summary>Question 30 (df의 짝수번째 컬럼만을 포함하는 데이터프레임을 출력하라)</summary>
+  <pre>
+    <a href="https://blog.wonkyunglee.io/3" target="_blank">Python Extended Slice(::)</a>
+  </pre>
+</details>
