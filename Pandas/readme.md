@@ -42,3 +42,12 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     Series.str.<a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.str.len.html">len()</a>
   </pre>
 </details>
+
+<details>
+  <summary>
+    Question 43 (df의 데이터 중 new_price값이 lst에 해당하는 경우의 데이터 프레임을 구하고 그 갯수를 출력하라 lst =[1.69, 2.39, 3.39, 4.45, 9.25, 10.98, 11.75, 16.98])       </summary>
+  <pre>
+    DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isin.html">isin()</a>
+    <a href="https://www.delftstack.com/ko/howto/python-pandas/pandas-display-dataframe-in-a-table-style/">display()</a>
+  </pre>
+</details>
