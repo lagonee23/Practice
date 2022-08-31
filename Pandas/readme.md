@@ -35,3 +35,10 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     Python <a href="http://daplus.net/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%EB%AC%BC%EA%B2%B0%ED%91%9C-%EC%97%B0%EC%82%B0%EC%9E%90/">물결표(~) 연산자</a>
   </pre>
 </details>
+
+<details>
+  <summary>Question 42 (df의 데이터 중 item_name 값의 단어갯수가 15개 이상인 데이터를 인덱싱하라)</summary>
+  <pre>
+    Series.str.<a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.str.len.html">len()</a>
+  </pre>
+</details>
