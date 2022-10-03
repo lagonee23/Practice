@@ -71,3 +71,12 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rename.html">rename()</a>
   </pre>
 </details>
+
+<details>
+  <summary>
+    Question 47 (neighbourhood_group의 값에 따른 neighbourhood컬럼 값의 갯수를 구하여라)
+  </summary>
+  <pre>
+    DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html">groupby(<I>as_index=True</I>)</a>
+  </pre>
+</details>
