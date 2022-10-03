@@ -61,3 +61,13 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.size.html#pandas-dataframe-size">size()</a>
   </pre>
 </details>
+
+<details>
+  <summary>
+    Question 46 (데이터의 각 host_name의 빈도수를 구하고 빈도수 기준 내림차순 정렬한 데이터 프레임을 만들어라. 빈도수 컬럼은 counts로 명명하라)
+  </summary>
+  <pre>
+    Series.<a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.to_frame.html#pandas-series-to-frame">to_frame()</a>
+    DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rename.html">rename()</a>
+  </pre>
+</details>
