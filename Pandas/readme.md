@@ -80,3 +80,12 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html">groupby(<I>as_index=True</I>)</a>
   </pre>
 </details>
+
+<details>
+  <summary>
+    Question 49 (neighbourhood_group 값에 따른 price값의 평균, 분산, 최대, 최소 값을 구하여라)
+  </summary>
+  <pre>
+    DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html">agg()</a>
+  </pre>
+</details>
