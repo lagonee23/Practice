@@ -89,3 +89,12 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html">agg()</a>
   </pre>
 </details>
+
+<details>
+  <summary>
+    Question 52 (neighbourhood 값과 neighbourhood_group 값에 따른 price 의 평균을 계층적 indexing 없이 구하라)
+  </summary>
+  <pre>
+    DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.unstack.html">unstack()</a>
+  </pre>
+</details>
