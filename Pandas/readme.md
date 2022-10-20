@@ -108,3 +108,21 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     numpy.<a href="https://numpy.org/doc/stable/reference/generated/numpy.reshape.html#numpy-reshape">reshape()</a>
   </pre>
 </details>
+
+<details>
+  <summary>
+    Question 56 (데이터를 로드하고 데이터 행과 열의 갯수를 출력하라)
+  </summary>
+  <pre>
+    pandas.<a href="https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html">read_csv(<I>index_col=None</I>)</a>
+  </pre>
+</details>
+
+<details>
+  <summary>
+    Question 57 (Income_Category의 카테고리를 map 함수를 이용하여 다음과 같이 변경하여 newIncome 컬럼에 매핑하라)
+  </summary>
+  <pre>
+    Series.<a href="https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html#pandas-series-map">map()</a>
+  </pre>
+</details>
