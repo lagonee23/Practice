@@ -98,3 +98,13 @@ https://www.datamanim.com/dataset/99_pandas/pandasMain.html#id1
     DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.unstack.html">unstack()</a>
   </pre>
 </details>
+
+<details>
+  <summary>
+    Question 55 (데이터중 neighbourhood_group 값에 따른 room_type 컬럼의 숫자를 구하고 neighbourhood_group 값을 기준으로 각 값의 비율을 구하여라)
+  </summary>
+  <pre>
+    DataFrame.<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.values.html#pandas-dataframe-values">values</a>
+    numpy.<a href="https://numpy.org/doc/stable/reference/generated/numpy.reshape.html#numpy-reshape">reshape()</a>
+  </pre>
+</details>
